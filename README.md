@@ -1,1 +1,1 @@
-# Statistical-R-Language
+# Statistical R Language
