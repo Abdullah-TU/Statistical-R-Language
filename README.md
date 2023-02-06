@@ -10,4 +10,5 @@
 3. R Statistics
    Statistics Intro, Data Set, Max and Min, Mean Median Mode, percentiles.
    
+4. Personal projects
    
