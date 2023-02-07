@@ -14,7 +14,9 @@
    * Functions
    
 ### 2. R Data Structures:
-   Vectors, Lists, Matrices, Arrays, Data Frames, Factors.
+   * Vectors
+   * Lists
+   * Matrices, Arrays, Data Frames, Factors.
 
 ### 3. R Statistics: 
    Statistics Intro, Data Set, Max and Min, Mean Median Mode, percentiles.
