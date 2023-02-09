@@ -6,12 +6,7 @@
    * Numbers,
    * Math
    * Strings 
-   * Booleans
-   * Operators
-   * If...Else
-   * While Loop
-   * For Loop
-   * Functions
+
    
 ### 2. R Data Structures:
    * Vectors
