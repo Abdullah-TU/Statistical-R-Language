@@ -9,6 +9,7 @@
    * Booleans
    * Operators
    * If...Else
+   * While Loop
 
    
 ### 2. R Data Structures:
