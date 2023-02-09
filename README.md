@@ -8,6 +8,7 @@
    * Strings 
    * Booleans
    * Operators
+   * If...Else
 
    
 ### 2. R Data Structures:
