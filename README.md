@@ -6,6 +6,7 @@
    * Numbers,
    * Math
    * Strings 
+   * Booleans
 
    
 ### 2. R Data Structures:
