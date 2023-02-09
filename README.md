@@ -10,6 +10,7 @@
    * Operators
    * If...Else
    * While Loop
+   * For Loop
 
    
 ### 2. R Data Structures:
