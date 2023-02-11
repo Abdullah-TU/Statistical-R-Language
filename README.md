@@ -2,8 +2,7 @@
 ## Common topics I would like to cover:
 
 ### 1. R Basics :
-   * Variables Data Types, Numbers,  Math
-   * Strings 
+   * Variables Data Types, Numbers,  Math , Strings ,
    * Booleans
    * Operators
    * If...Else
