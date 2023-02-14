@@ -5,10 +5,7 @@
    * Variables Data Types, Numbers,  Math , Strings , Booleans, Operators, If...Else, While Loop, For Loop, Functions
    
 ### 2. R Data Structures:
-   * Vectors, Lists
-   * Matrices
-   * Arrays
-   * Data Frames
+   * Vectors, Lists, Matrices, Arrays, Data Frames
    * Factors.
 
 ### 3. R Statistics: 
