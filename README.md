@@ -8,9 +8,7 @@
    * Vectors, Lists, Matrices, Arrays, Data Frames, Factors.
 
 ### 3. R Statistics: 
-   * Statistics Intro,  Data Set, 
-   * Max and Min
-   * Mean Median Mode
+   * Statistics Intro,  Data Set, Max and Min, Mean Median Mode
    * percentiles
    
 ### 4. Personal projects
