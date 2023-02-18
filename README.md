@@ -1,5 +1,5 @@
 # Statistical R Language
-## Common topics I would like to cover
+## Common topics 
 
 ### 1. R Basics :
    * Variables Data Types, Numbers,  Math , Strings , Booleans, Operators, If...Else, While Loop, For Loop, Functions.
