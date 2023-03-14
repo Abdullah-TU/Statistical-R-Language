@@ -1,4 +1,4 @@
-# Statistical R 
+# 📖 Statistical R 📊
 
 ### 1. R Basics :
    * Variables Data Types, Numbers,  Math , Strings , Booleans, Operators, If...Else, While Loop, For Loop, Functions.
